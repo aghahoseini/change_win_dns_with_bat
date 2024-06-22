@@ -3,5 +3,6 @@
 
 
 netsh int ipv4 show  interfaces
+*******
 netsh  interface ip show config
 
